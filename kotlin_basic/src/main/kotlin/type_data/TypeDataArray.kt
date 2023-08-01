@@ -26,4 +26,15 @@ fun main() {
     println("======")
     println(fruits[2])
     println(fruits.size)
+
+    /**
+     * Akbar
+     * ======
+     * Rudi
+     * ======
+     * Ahmad
+     * ======
+     * Leci
+     * 4
+     * **/
 }
